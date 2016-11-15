@@ -8,7 +8,7 @@ It can be argued that it is a better idea to install `source-map-support` into y
 
 ## install
 
-``sh
+```sh
 npm install babel-plugin-node-sourcemap-support
 ```
 
