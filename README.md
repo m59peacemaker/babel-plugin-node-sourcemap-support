@@ -48,7 +48,7 @@ path to transpiled files directory
 
 array of app entry file paths, relative to `src`
 
-### `supportModulePath: string, \_build-modules/source-map-support-register.js`
+### `supportModulePath: string, _build-modules/source-map-support-register.js`
 
 path where the module will be added, relative to `dest`
 
